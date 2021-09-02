@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'spNode'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1e58ffb7a51f48609aa4632b25b74cd2 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d3d15fd712934136b705f7a8cdd58877 }}
         package: .
